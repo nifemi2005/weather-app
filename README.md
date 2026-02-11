@@ -1,0 +1,1 @@
+The weather application provides real-time weather conditions for cities across the world. It utilizes data from the OpenWeather API, which is called by entering a city’s name. The application displays key weather details including temperature, city location, humidity percentage, and wind speed measured in kilometers per hour.
